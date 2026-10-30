@@ -1,2 +1,3 @@
 # pytorch-smt
-hello
+
+HelloWorld("print")
